@@ -4,7 +4,6 @@
       <button v-on:click="masuk()">Masuk</button>
   </div>
 </template>
-
 <script>
 import {db} from './db'
 
